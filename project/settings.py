@@ -78,11 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
-        postgresql://postgres:2wbyA7XF6Bef2bo6qXz8@containers-us-west-186.railway.app:6548/railway,
-        railway,
-       containers-us-west-186.railway.app,
-       2wbyA7XF6Bef2bo6qXz8,
-       postgres,
+       
     }
 }
 
